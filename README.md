@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gvadellupa
-- 👀 I’m interested in becoming a programmer
-- 📫 How to reach me: https://t.me/Angliiv
+- 👀 I am interested in becoming a Python engineer
+- 📫 How to reach me: https://t.me/gvadellupa
 
 <!---
 MrShirokow/MrShirokow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
