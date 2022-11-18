@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gvadellupa
-- 👀 I am interested in becoming a Python engineer
+- 👀 I'm a python backend developer
 - 📫 How to reach me: https://t.me/gvadellupa
 
 <!---
