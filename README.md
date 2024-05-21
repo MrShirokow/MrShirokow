@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gvadellupa
+- 👋 Hi, I’m Sergey
 - 👀 I'm a python backend developer
 - 📫 How to reach me: https://t.me/gvadellupa
 
